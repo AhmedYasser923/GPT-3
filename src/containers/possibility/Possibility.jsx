@@ -10,7 +10,7 @@ const Possibility = () => {
   return (
     <div className="gpt3__possibility section__padding">
       <div className="gpt3__possibility-img" data-aos="fade-right">
-        <img src={PossibilityImage}></img>
+        <img src={PossibilityImage} alt='image'></img>
       </div>
       <div className="gpt3__possibility-content"data-aos="fade-left">
         <h4>Request Early Access to Get Started</h4>
