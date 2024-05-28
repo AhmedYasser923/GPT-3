@@ -3,6 +3,8 @@
   justify-content: space-between;
   align-items: center;
   padding: 2rem 6rem;
+  overflow-x: hidden;
+
 }
 .gpt3__navbar-links {
   flex: 1;

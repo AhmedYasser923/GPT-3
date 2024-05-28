@@ -1,6 +1,8 @@
 .gpt3__possibility{
     display: flex;
     flex-direction: row;
+    overflow-x: hidden;
+
 }
 .gpt3__possibility-img{
     flex: 1;

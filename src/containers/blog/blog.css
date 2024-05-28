@@ -1,6 +1,8 @@
 .gpt3__blog{
     display: flex;
     flex-direction: column;
+    overflow-x: hidden;
+
 }
 .gpt3__blog-heading{
     display: flex;
